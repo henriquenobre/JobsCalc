@@ -1,0 +1,27 @@
+{
+  "name": "JobsCalc",
+  "version": "1.0.0",
+  "description": "Calculadora Freelancer",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquenobre/JobsCalc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquenobre/JobsCalc/issues"
+  },
+  "homepage": "https://github.com/henriquenobre/JobsCalc#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
